@@ -12,5 +12,6 @@ A tool that automates the retrieval of historical but recent modified robots.txt
 git clone https://github.com/webdragon63/waybackurl.git
 cd waybackurl
 ```
+Just run the .sh files with `bash`
 ## Tool is made by Webdragon63
 ## Youtube channel:  https://www.youtube.com/@indiancyberarmy5
