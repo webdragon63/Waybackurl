@@ -16,7 +16,7 @@ echo -e "${WHITE}                      ╻ ╻┏━┓╻ ╻┏┓ ┏━┓�
 echo -e "${WHITE}                      ┃╻┃┣━┫┗┳┛┣┻┓┣━┫┃  ┣┻┓┣┳┛┃ ┃┣┻┓┃ ┃ ┃"
 echo -e "${WHITE}                      ┗┻┛╹ ╹ ╹ ┗━┛╹ ╹┗━╸╹ ╹╹┗╸┗━┛┗━┛┗━┛ ╹"
                                                                            
-echo -e "${CYAN}     _____________Extract the robot.txt from  Wayback Machine______________"
+echo -e "${CYAN}     __________Extract the latest robot.txt from  Wayback Machine__________"
                                
 echo -e "${BLUE}                           MADE BY:${VERMILION}INDIAN ${WHITE}CYBER ${GREEN}ARMY"                  
 echo -e "${BLUE}            YOUTUBE CHANNEL: ${VERMILION}https://${WHITE}www.youtube.com/${GREEN}@indiancyberarmy5" 
