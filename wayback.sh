@@ -12,7 +12,7 @@ echo "     █   ██   ██        █████  █████  ██
 echo "     █  ████  ██  ████  █████  █████       ███  ████  ███      ███  ████  █"
 echo "     ██████████████████████████████████████████████████████████████████████"
     echo "                           MADE BY:INDIAN CYBER ARMY"
-    echo "          YOUTUBE CHANNEL: https://www.youtube.com/@indiancyberarmy5"
+    echo "          YOUTUBE CHANNEL: https://www.youtube.com/@webdragon63"
     echo -e "\033[0;36m __________________________INFORMATION GATHERING TOOL__________________________ "
     echo ""
     echo " [1] WAYBACKURL"
