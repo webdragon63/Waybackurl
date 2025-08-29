@@ -17,7 +17,7 @@ echo -e "${WHITE}                       ┗┻┛╹ ╹ ╹ ┗━┛╹ ╹┗
 echo -e "${CYAN}     _______________Extract the url's from  Wayback Machine________________"
                                
 echo -e "${BLUE}                           MADE BY:${VERMILION}INDIAN ${WHITE}CYBER ${GREEN}ARMY"                  
-echo -e "${BLUE}            YOUTUBE CHANNEL: ${VERMILION}https://${WHITE}www.youtube.com/${GREEN}@indiancyberarmy5" 
+echo -e "${BLUE}            YOUTUBE CHANNEL: ${VERMILION}https://${WHITE}www.youtube.com/${GREEN}@webdragon63" 
 echo -e "${BLUE}________________________________________________________________________________"         
 echo ""         
 echo -e "Enter the domain ${WHITE}(e.g., example.com):"
