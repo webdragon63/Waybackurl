@@ -19,7 +19,7 @@ echo -e "${WHITE}                      ┗┻┛╹ ╹ ╹ ┗━┛╹ ╹┗�
 echo -e "${CYAN}     _____________Extract the robot.txt from  Wayback Machine______________"
                                
 echo -e "${BLUE}                           MADE BY:${VERMILION}INDIAN ${WHITE}CYBER ${GREEN}ARMY"                  
-echo -e "${BLUE}            YOUTUBE CHANNEL: ${VERMILION}https://${WHITE}www.youtube.com/${GREEN}@indiancyberarmy5" 
+echo -e "${BLUE}            YOUTUBE CHANNEL: ${VERMILION}https://${WHITE}www.youtube.com/${GREEN}@webdragon63" 
 echo -e "${BLUE}________________________________________________________________________________" 
 echo ""
 # Colourize text format into cyan
